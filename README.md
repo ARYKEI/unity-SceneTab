@@ -5,7 +5,7 @@ Build Settingsに登録してあるシーンをボタンで表示し、ワンク
 
 ## 使用方法
 1. SceneTabフォルダをあなたのプロジェクトのAssetsフォルダ以下にコピーします
-1. メニューのWindow->SceneTab->Open...でウィンドウタイプで表示します
+1. メニューのWindow->SceneTab->Open Windowでウィンドウタイプで表示します
 1. メニューのWindow->SceneTab->Show in SceneViewにチェックを入れると、SceneView上にオーバーレイ表示されます
 
 ## ボタンの操作方法
